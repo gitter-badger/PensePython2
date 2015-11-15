@@ -1,4 +1,6 @@
-ThinkPython
-===========
+Pense Python 2
+==============
 
-LaTeX source, code examples, and exercise solutions for Think Python, 2nd edition, by Allen Downey.
+Tradução da 2ª edição de Think Python, de Allen Downey.
+
+Este repositório contém o código fonte do texto integral, exemplos e exercícios.
