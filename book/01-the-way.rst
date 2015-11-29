@@ -372,6 +372,7 @@ useful for many activities beyond programming. At the end of each
 chapter there is a section, like this one, with my suggestions for
 debugging. I hope they help!
 
+
 Glossary
 --------
 
