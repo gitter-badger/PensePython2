@@ -45,7 +45,7 @@ Think Python 2ed e a terceira tradução
 
 Enquanto isso, Allen Downey foi trabalhar no Olin College onde passou a usar Python como linguagem para ensinar programação e foi aperfeiçoando seu material até lançar o Think Python (O'Reilly, 2012) e agora o Think Python 2ed (O'Reilly, 2015), dessa vez usando uma licença Creative Commons Attribution-NonCommercial 3.0 Unported.
 
-Fiz um clone do repositório do Think Python 2ed, converti o código-fonte de LaTeX para ReStructuredText (mesmo formado usado nas duas traduções brasileiras anteriores), separei os capítulos e criei um glossário consolidado. O repositório é este:
+Fiz um clone do repositório do Think Python 2ed, converti o código-fonte de LaTeX para ReStructuredText (mesmo formato usado nas duas traduções brasileiras anteriores), separei os capítulos e criei um glossário consolidado. O repositório é este:
 
 https://github.com/PensePython/PensePython2
 
