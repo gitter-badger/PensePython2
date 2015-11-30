@@ -12,7 +12,7 @@ from join_glossary import expected_entries
 
 RST_PATH = '../book/'
 GLOSSARY_DATA_PATH = './glossary.csv'
-FIELDS = 'term us_term br_term chapter order definition'.split()
+FIELDS = 'term us_term br_term chapter order us_definition br_definition'.split()
 
 GLOSSARY_HEAD = '''\
 Glossário Consolidado
@@ -79,9 +79,10 @@ def main():
         out_file.write(GLOSSARY_HEAD)
         for entry in sorted(master_glossary, key=master_order):
             short_chapter = entry.chapter.lstrip('0')
+            definition = entry.br_definition.strip() or entry.us_definition.strip()
             out_file.write('{} :ref:`[{}] <glossary{}>`\n  {}\n\n'
                            .format(formatted_head(entry), short_chapter,
-                                   entry.chapter, entry.definition))
+                                   entry.chapter, definition))
 
     for chapter_id, entries_qty in expected_entries:
         chapter_glob = os.path.join(RST_PATH, chapter_id+'*.rst')
@@ -91,7 +92,8 @@ def main():
         glossary = chapter_glossaries[chapter_id]
         with open(out_path, 'wt', encoding='utf-8') as out_file:
             for entry in sorted(glossary, key=operator.attrgetter('order')):
-                out_file.write('{}\n  {}\n\n'.format(formatted_head(entry), entry.definition))
+                definition = entry.br_definition.strip() or entry.us_definition.strip()
+                out_file.write('{}\n  {}\n\n'.format(formatted_head(entry), definition))
 
     print()
 
