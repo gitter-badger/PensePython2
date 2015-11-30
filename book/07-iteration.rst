@@ -378,35 +378,14 @@ program where there might be errors and places where it is easy to put a
 check. Then choose a spot where you think the chances are about the same
 that the bug is before or after the check.
 
+
+.. _glossary07:
+
 Glossary
 --------
 
-reassignment:
-    Assigning a new value to a variable that already exists.
+.. include:: glossary/07.txt
 
-update:
-    An assignment where the new value of the variable depends on the
-    old.
-
-initialization:
-    An assignment that gives an initial value to a variable that will be
-    updated.
-
-increment:
-    An update that increases the value of a variable (often by one).
-
-decrement:
-    An update that decreases the value of a variable.
-
-iteration:
-    Repeated execution of a set of statements using either a recursive
-    function call or a loop.
-
-infinite loop:
-    A loop in which the terminating condition is never satisfied.
-
-algorithm:
-    A general process for solving a category of problems.
 
 Exercises
 ---------

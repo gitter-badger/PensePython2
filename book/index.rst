@@ -33,8 +33,9 @@ Contents:
    19-goodies.rst
    A-debug.rst
    B-analysis-alg.rst
+   C-glossary.rst
 
-   
+
 Indices and tables
 ==================
 

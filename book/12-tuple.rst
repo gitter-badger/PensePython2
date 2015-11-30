@@ -561,38 +561,13 @@ And here’s a dictionary with 3 items that map integers to strings.
 If you are having trouble keeping track of your data structures,
 structshape can help.
 
+.. _glossary12:
+
 Glossary
 --------
 
-tuple:
-    An immutable sequence of elements.
+.. include:: glossary/12.txt
 
-tuple assignment:
-    An assignment with a sequence on the right side and a tuple of
-    variables on the left. The right side is evaluated and then its
-    elements are assigned to the variables on the left.
-
-gather:
-    The operation of assembling a variable-length argument tuple.
-
-scatter:
-    The operation of treating a sequence as a list of arguments.
-
-zip object:
-    The result of calling a built-in function zip; an object that
-    iterates through a sequence of tuples.
-
-iterator:
-    An object that can iterate through a sequence, but which does not
-    provide list operators and methods.
-
-data structure:
-    A collection of related values, often organized in lists,
-    dictionaries, tuples, etc.
-
-shape error:
-    An error caused because a value has the wrong shape; that is, the
-    wrong type or size.
 
 Exercises
 ---------

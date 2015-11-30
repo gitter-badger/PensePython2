@@ -323,19 +323,14 @@ your program is correct. According to a legendary computer scientist:
 
     — Edsger W. Dijkstra
 
+
+.. _glossary09:
+
 Glossary
 --------
 
-file object:
-    A value that represents an open file.
+.. include:: glossary/09.txt
 
-reduction to a previously solved problem:
-    A way of solving a problem by expressing it as an instance of a
-    previously solved problem.
-
-special case:
-    A test case that is atypical or non-obvious (and less likely to be
-    handled correctly).
 
 Exercises
 ---------

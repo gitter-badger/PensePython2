@@ -622,26 +622,13 @@ When you are working with functions that have a large number of
 parameters, it is often useful to create and pass around dictionaries
 that specify frequently used options.
 
+.. _glossary19:
+
 Glossary
 --------
 
-conditional expression:
-    An expression that has one of two values, depending on a condition.
+.. include:: glossary/19.txt
 
-list comprehension:
-    An expression with a for loop in square brackets that yields a new
-    list.
-
-generator expression:
-    An expression with a for loop in parentheses that yields a generator
-    object.
-
-multiset:
-    A mathematical entity that represents a mapping between the elements
-    of a set and the number of times they appear.
-
-factory:
-    A function, usually passed as a parameter, used to create objects.
 
 Exercises
 ---------
