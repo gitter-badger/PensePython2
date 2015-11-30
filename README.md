@@ -6,6 +6,17 @@ Mutirão para tradução da 2ª edição de Think Python, de Allen Downey.
 
 Este repositório contém o código fonte do texto integral, exemplos e exercícios.
 
+-------------------
+Objetivo do projeto
+-------------------
+
+Vamos traduzir o Think Python 2ed para PT-BR com dois objetivos:
+
+* Produzir versões eletrônicas livres em HTML, PDF e ePUB para que o maior número de pessoas possam aprender com este livro maravilhoso.
+
+* Produzir uma versão impressa a ser publicada por uma editora de verdade, com ISBN, para que o MEC possa aceitar o *Pense Python* como livro-texto de introdução à programação no ensino superior em todo o Brasil!
+
+
 --------------
 Como colaborar
 --------------
@@ -54,12 +65,6 @@ O glossário consolidado em HTML pode ser visto aqui:
 https://pensepython.github.io/C-glossary.html
 
 E é aqui que a gente se encontra!
-
-Vamos traduzir o Think Python 2ed para PT-BR com dois objetivos:
-
-* produzir versões eletrônicas livres em HTML, PDF e ePUB para que o maior número de pessoas possam aprender com este livro maravilhoso
-
-* produzir uma versão impressa a ser publicada por uma editora de verdade, com ISBN, para que o MEC possa aceitar o Pense Python como livro-texto de introdução à programação no ensino superior em todo o Brasil!
 
 [ ]s
 Luciano
