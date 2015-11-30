@@ -36,7 +36,7 @@ No ano seguinte, o prof. Jeff Elkner converteu o livro para Python, e em 2001 Do
 Primeira tradução brasileira
 ----------------------------
 
-Por volta de 2003 eu (LR) trabalhava com o prof. Imre Simon na Incubadora Virtual Fapesp, e resolvemos iniciar um mutirão para traduzir o "How to Think Like a Computer Scientist: Learning with Python". Reunimos mais um pessoal online, fizemos um encontro presencial no FISL, e traduzimos o livro nos meses seguintes. O prof. Imre traduziu pessoalmente o capítulo sobre árvores. O que faltou daquela vez foi alguém (eu) assumir a responsabilidade de revisar o livro de ponta a ponta, uniformizando a terminologia e traduzindo alguns pequenos trechos que restaram em inglês por causa de dificuldades na tradução. A incubadora Fapesp saiu do ar, mas o trabalho realizado então está neste repositório:
+Por volta de 2003 eu (LR) trabalhava com o prof. Imre Simon do IME/USP na Incubadora Virtual Fapesp, e resolvemos iniciar um mutirão para traduzir o "How to Think Like a Computer Scientist: Learning with Python". Reunimos mais um pessoal online, fizemos um encontro presencial no FISL, e traduzimos o livro nos meses seguintes. O prof. Imre traduziu pessoalmente o capítulo sobre árvores. O que faltou daquela vez foi alguém (eu) assumir a responsabilidade de revisar o livro de ponta a ponta, uniformizando a terminologia e traduzindo alguns pequenos trechos que restaram em inglês por causa de dificuldades na tradução. A incubadora Fapesp saiu do ar, mas o trabalho realizado então está neste repositório:
 
 https://github.com/PensePython/aprendacompy
 
