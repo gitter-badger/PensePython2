@@ -2,9 +2,17 @@
 Pense Python 2
 ==============
 
-Tradução da 2ª edição de Think Python, de Allen Downey.
+Mutirão para tradução da 2ª edição de Think Python, de Allen Downey.
 
 Este repositório contém o código fonte do texto integral, exemplos e exercícios.
+
+--------------
+Como colaborar
+--------------
+
+Entre no grupo ``pensepython`` no Google Groups, se apresente e pergunte o que há para ser feito:
+
+https://groups.google.com/forum/?hl=en#!forum/pensepython
 
 --------------------
 Histórico do projeto
