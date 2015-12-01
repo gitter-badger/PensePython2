@@ -1,4 +1,6 @@
 ==============
+
+[![Join the chat at https://gitter.im/mazulo/PensePython2](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mazulo/PensePython2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Pense Python 2
 ==============
 
